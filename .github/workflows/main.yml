@@ -1,0 +1,219 @@
+user:
+  name: Mark JP Tolentino
+  age: 25
+  occupation: 
+    title: Senior Software Engineer
+    experience: 5 years
+    skills:
+      - Python
+      - JavaScript
+      - Machine Learning
+      - DevOps
+  contact:
+    email: markjp.tolentino@outlook.com
+    phone: +1-(365)-888-7758
+  social:
+    github: github.com/markjpT
+    linkedin: linkedin.com/in/markjpt
+    twitter: @markjp_dev
+
+education:
+  degree: Bachelor of Science in Computer Science
+  university: Example University
+  graduation_year: 2020
+
+certifications:
+  - name: Certified Python Developer
+    issuing_authority: Python Institute
+    year: 2021
+  - name: AWS Certified Solutions Architect - Associate
+    issuing_authority: Amazon Web Services
+    year: 2022
+
+work_history:
+  - position: Software Engineer
+    company: Tech Innovators
+    start_date: 2020-06-01
+    end_date: 2022-12-31
+    responsibilities:
+      - Developed scalable web applications using Django and React.
+      - Collaborated with cross-functional teams to deliver high-quality software.
+
+  - position: Senior Software Engineer
+    company: Future Tech Solutions
+    start_date: 2023-01-15
+    current: true
+    responsibilities:
+      - Leading the development of innovative projects.
+      - Mentoring junior developers and conducting code reviews.
+
+achievements:
+  - "Recipient of Excellence in Software Development Award, 2021"
+  - "Published author in 'Tech Trends' magazine, March 2022"
+
+preferences:
+  theme: 
+    current: dark
+    available: 
+      - dark
+      - light
+  language:
+    primary: Python
+    secondary: JavaScript
+  favorite_color: 
+    hex: "#3498db"
+    name: Dodger Blue
+  text_editor: 
+    name: VSCode
+    settings:
+      - "editor.fontFamily: 'Fira Code', 'Droid Sans Mono', 'monospace'"
+      - "editor.fontSize: 14"
+
+projects:
+  - name: SuperApp
+    description: An innovative application for various platforms.
+    technologies:
+      - React
+      - Node.js
+      - TensorFlow
+    status: ongoing
+    contributors:
+      - name: Alice Developer
+        role: Frontend Engineer
+      - name: Bob Designer
+        role: UI/UX Designer
+    achievements:
+      - "Featured in Tech Expo 2022"
+      - "Top Open Source Contributor of the Year"
+
+  - name: QuantumAI
+    description: Quantum computing project exploring AI applications.
+    technologies:
+      - Qiskit
+      - TensorFlow Quantum
+    status: planning
+    contributors:
+      - name: Carol Researcher
+        role: Quantum Physicist
+      - name: Dave Developer
+        role: Backend Engineer
+    achievements:
+      - "Published Research Paper on Quantum Machine Learning"
+      - "Presented at Quantum Computing Conference"
+
+interests:
+  hobbies:
+    - Reading
+    - Hiking
+    - Photography
+  favorite_books:
+    - "Sapiens" by Yuval Noah Harari
+    - "The Hitchhiker's Guide to the Galaxy" by Douglas Adams
+  favorite_movies:
+    - "Inception"
+    - "The Matrix"
+  favorite_music:
+    - "Imagine" by John Lennon
+    - "Bohemian Rhapsody" by Queen
+
+conferences_attended:
+  - name: DevCon 2022
+    location: San Francisco, CA
+    date: 2022-05-20
+  - name: AI Summit
+    location: New York, NY
+    date: 2023-02-10
+
+community_involvement:
+  - organization: Code for Good
+    role: Mentor
+    duration: 2022-present
+  - organization: Women Who Code
+    role: Workshop Facilitator
+    duration: 2021-2022
+
+fitness_preferences:
+  - activity: Running
+    frequency: 3 times a week
+  - activity: Yoga
+    frequency: 2 times a week
+
+travel_experiences:
+  - destination: Tokyo, Japan
+    year: 2019
+    highlights:
+      - Exploring Akihabara's tech district
+      - Trying authentic ramen
+  - destination: Barcelona, Spain
+    year: 2020
+    highlights:
+      - Visiting Sagrada Familia
+      - Enjoying the vibrant street art
+
+future_goals:
+  - "Become a Tech Lead within the next 2 years"
+  - "Contribute to an open-source project with significant impact"
+  - "Attend and speak at an international tech conference"
+
+ongoing_learning:
+  - topic: Kubernetes
+    level: Intermediate
+    resources:
+      - "Kubernetes Documentation"
+      - "Kubernetes Up & Running by Kelsey Hightower"
+  - topic: Natural Language Processing
+    level: Advanced
+    resources:
+      - "Natural Language Processing in Python (book)"
+      - "Coursera: Natural Language Processing Specialization"
+
+favorite_quotes:
+  - "The only way to do great work is to love what you do." - Steve Jobs
+  - "Strive not to be a success, but rather to be of value." - Albert Einstein
+
+coding_principles:
+  - "Write code for humans, not just for computers."
+  - "Keep it simple, stupid (KISS)."
+
+favorite_podcasts:
+  - name: "CodeNewbie"
+    description: "Stories from people on their coding journey."
+  - name: "Software Engineering Daily"
+    description: "Daily interviews about software engineering and programming."
+  - name: "The Changelog"
+    description: "Open source moves fast. Keep up."
+
+notes: |
+  Mark's Miscellaneous Notes:
+  - "Remember to check out the latest advancements in AI ethics."
+  - "Explore opportunities for mentorship and knowledge sharing."
+
+technology_stack:
+  front_end:
+    - React
+    - Vue.js
+    - HTML5
+    - CSS3
+  back_end:
+    - Django
+    - Node.js
+    - Flask
+  database:
+    - PostgreSQL
+    - MongoDB
+  dev_ops:
+    - Docker
+    - Kubernetes
+    - Jenkins
+
+favorite_code_snippets:
+  - |
+    // Python
+    def greet(name):
+        return f"Hello, {name}!"
+
+  - |
+    // JavaScript
+    const addNumbers = (a, b) => {
+        return a + b;
+    }
